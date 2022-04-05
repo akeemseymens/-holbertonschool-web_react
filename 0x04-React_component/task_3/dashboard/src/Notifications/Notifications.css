@@ -1,0 +1,27 @@
+.Notifications {
+    border: dashed 2px red;
+    padding: 2px;
+    padding-left: 40px;
+    max-width: 20vw;
+    position: relative;
+}
+root-notifications {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    padding-left: 75%;
+}
+
+.menuItem {
+    margin-left: 16vw;
+    padding-bottom: 10px;
+}
+
+li[data-priority='default'] {
+    color: blue;
+}
+
+li[data-priority='urgent'] {
+    color: red;
+}

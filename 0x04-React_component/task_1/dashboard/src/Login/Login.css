@@ -1,0 +1,13 @@
+/* Login form CSS */
+.login-form {
+    margin: 0px 40px;
+  }
+  
+  .login-form label {
+    margin-right: 10px
+  }
+  
+  .login-form #password-label {
+    margin-left: 10px;
+  }
+  

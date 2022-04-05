@@ -1,0 +1,11 @@
+/* footer CSS */
+.App-footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-top: 3px solid rgb(207, 8, 8);
+  }
+  
+  .App-footer p{
+    font-style: italic;
+  }

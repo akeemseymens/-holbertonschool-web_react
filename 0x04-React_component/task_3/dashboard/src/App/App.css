@@ -1,0 +1,13 @@
+/* fonts */
+p, h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* body CSS */
+.App-body {
+  height: 60vh;
+}
+
+.App-body p {
+  margin: 40px 0px 15px 40px;
+}

@@ -1,0 +1,5 @@
+//Redux actions for courses
+const SELECT_COURSE = 'SELECT_COURSE';
+const UNSELECT_COURSE = 'UNSELECT_COURSE'
+
+export {UNSELECT_COURSE, SELECT_COURSE};

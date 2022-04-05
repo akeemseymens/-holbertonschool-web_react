@@ -1,0 +1,17 @@
+# 0x09. React Redux reducer+selector
+
+## Learning objectives:
+
+* The purpose of a reducer and the role it plays within your application
+* Why a reducer should stay as pure as possible
+* Why mutations should not happen within a reducer
+* The use of Immutable within the reducer
+* The use of Normalizr within the app
+* Selectors: what they are and when to use them
+
+
+## Tasks:
+* ...
+
+## Authors
+Akeem Seymens - [Github](https://github.com/akeemseymens)

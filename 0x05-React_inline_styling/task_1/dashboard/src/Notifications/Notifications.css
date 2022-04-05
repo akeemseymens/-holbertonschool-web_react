@@ -1,0 +1,15 @@
+root-notifications {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: absolute;
+    padding-left: 75%;
+}
+
+li[data-priority='default'] {
+    color: blue;
+}
+
+li[data-priority='urgent'] {
+    color: red;
+}
